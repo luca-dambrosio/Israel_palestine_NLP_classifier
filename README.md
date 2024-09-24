@@ -1,6 +1,6 @@
 # ISRAEL-PALESTINE NLP PROJECT
 
-*Description:*
+*Description:*  
 The intended aim of this project was to study the evolution of discourse online during the Israel-Palestine conflict through the analysis of 
 three subreddits: r/Israel (Pro-Israel), r/Palestine (Pro-Palestine), r/IsraelPalestine (Neutral); various natural language processing techniques were
 exploited to gather insights from these communities.
