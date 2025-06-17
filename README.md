@@ -14,3 +14,5 @@ exploited to gather insights from these communities.
 
   The Reddit Textual data was collected using the Academic Torrents platform. For further information refer to the creator of the base datasets: @watchful1.
 For further details refer to the full paper.
+
+This project is part of a course in Natural Language Processing	
